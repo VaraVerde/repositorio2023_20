@@ -11,8 +11,21 @@ criando um repositorio pc aula 1
 - : Eu estou interessado em aprender programação
 - :: A coisa que mais gosto é jogar games de RPG
 - {}(![image](https://github.com/VaraVerde/repositorio2023_20/assets/137302478/54f8aaed-1a07-45a0-bf0f-05dc12807b59)
+
 )
 
-  
-- {}(![image](https://github.com/VaraVerde/repositorio2023_20/assets/137302478/60786a07-840d-4a24-b26e-8b73b6aac696)
-)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
